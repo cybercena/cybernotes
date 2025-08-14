@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Testing.md",
+                "file": "SUMMARY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testing"
+              "title": "SUMMARY"
             }
           }
         ]
@@ -167,16 +167,18 @@
   },
   "active": "9ad313287b1a3374",
   "lastOpenFiles": [
-    "TryHackMe/Testing 2.md",
-    "TryHackMe/Testing.md",
-    "TryHackMe/Testing 1.md",
+    "TryHackMe/Testing/Testing.md",
+    "TryHackMe/Testing/README.md",
+    "TryHackMe/Testing",
+    "devsecops/git-and-github/testing-git-and-github.md",
+    "devsecops/git-and-github/README.md",
     "SUMMARY.md",
+    "TryHackMe/Testing 2.md",
+    "TryHackMe/Testing 1.md",
     "README.md",
     "devsecops/docker/intro-to-docker.md",
     "devsecops/docker/README.md",
     "devsecops/docker/installation-of-docker.md",
-    "devsecops/git-and-github/testing-git-and-github.md",
-    "devsecops/git-and-github/README.md",
     "TryHackMe/Testing",
     "TryHackMe",
     "devsecops/page-2.md",
