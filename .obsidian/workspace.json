@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "devsecops/AWS/AWS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SUMMARY"
+              "title": "AWS"
             }
           }
         ]
@@ -165,12 +165,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ad313287b1a3374",
+  "active": "c9874cda61c9b761",
   "lastOpenFiles": [
-    "README.md",
+    "devsecops/Github",
+    "devsecops/AWS",
+    "devsecops/docker/intro-to-docker.md",
+    "devsecops/AWS/AWS.md",
     "SUMMARY.md",
-    "devsecops/AWS.md",
-    "devsecops/docker/README.md",
-    "devsecops/docker/intro-to-docker.md"
+    "README.md",
+    "devsecops/docker/README.md"
   ]
 }
