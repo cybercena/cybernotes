@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Testing/Testing.md",
+                "file": "devsecops/git-and-github/testing-git-and-github.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testing"
+              "title": "testing-git-and-github"
             }
           }
         ]
@@ -167,25 +167,24 @@
   },
   "active": "181444a75bb7f2e7",
   "lastOpenFiles": [
+    "TryHackMe/Testing/Testing.md",
+    "devsecops/git-and-github/Pasted image 20250814172315.png",
+    "TryHackMe/Testing/README.md",
     "TryHackMe/Testing/Pasted image 20250814172323.png",
     "devsecops/git-and-github/README.md",
-    "devsecops/git-and-github/Pasted image 20250814172315.png",
     "devsecops/git-and-github/assets/Pasted image 20250814172123.png",
     "devsecops/git-and-github/testing-git-and-github.md",
     "devsecops/git-and-github/assets/Pasted image 20250814172106.png",
     "devsecops/git-and-github/assets",
     "devsecops/git-and-github/assets/Pasted image 20250814171906.png",
-    "TryHackMe/Testing/Testing.md",
     "TryHackMe/Testing/assets/Pasted image 20250814171843.png",
     "TryHackMe/Testing/assets/Pasted image 20250814171606.png",
     "devsecops/docker/assets/Pasted image 20250814171631.png",
     "devsecops/docker/installation-of-docker.md",
     "devsecops/docker/assets",
     "devsecops/git-and-github/assets/Pasted image 20250814171617.png",
-    "TryHackMe/Testing/README.md",
     "TryHackMe/Testing/assets",
     "TryHackMe/Testing/attachments/Pasted image 20250814171412.png",
-    "TryHackMe/Testing/attachments/Pasted image 20250814171409.png",
     "TryHackMe/Testing/attachments",
     "assets/Pasted.md",
     "image_url_or_path.md",

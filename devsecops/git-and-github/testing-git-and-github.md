@@ -3,4 +3,4 @@
 sonam sir testing
 
 
-naya wala testing ![[Pasted image 20250814172106.png]]
+![tester](https://raw.githubusercontent.com/cybercena/DAL-MOTE/refs/heads/main/image.png)
