@@ -6,5 +6,9 @@
 
 * [Docker](devsecops/docker/README.md)
   * [intro to docker](devsecops/docker/intro-to-docker.md)
-* [Page 1](devsecops/page-1.md)
-* [Page 2](devsecops/page-2.md)
+  * [installation of docker](devsecops/docker/installation-of-docker.md)
+
+***
+
+* [Git and Github](git-and-github/README.md)
+  * [Testing git and github](git-and-github/testing-git-and-github.md)
