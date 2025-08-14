@@ -10,5 +10,5 @@
 
 ***
 
-* [Git and Github](git-and-github/README.md)
-  * [Testing git and github](git-and-github/testing-git-and-github.md)
+* [Git and Github](devsecops/git-and-github/README.md)
+  * [Testing git and github](testing-git-and-github.md)
