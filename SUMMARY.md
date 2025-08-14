@@ -11,7 +11,7 @@
 ***
 
 * [Git and Github](devsecops/git-and-github/README.md)
-  * [testing](testing-git-and-github.md)
+  * [testing](devsecops/git-and-github/testing-git-and-github.md)
 ## Tryhackme
 - [Testing](TryHackMe/Testing/README)
    - [Testing](TryHackMe/Testing/Testing.md)

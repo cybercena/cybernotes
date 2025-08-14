@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "devsecops/git-and-github/testing-git-and-github.md",
+                "file": "SUMMARY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "testing-git-and-github"
+              "title": "SUMMARY"
             }
           }
         ]
@@ -167,9 +167,9 @@
   },
   "active": "181444a75bb7f2e7",
   "lastOpenFiles": [
+    "devsecops/git-and-github/testing-git-and-github.md",
     "TryHackMe/Testing/README.md",
     "TryHackMe/Testing/Testing.md",
-    "devsecops/git-and-github/testing-git-and-github.md",
     "SUMMARY.md",
     "devsecops/git-and-github/README.md",
     "devsecops/git-and-github/Pasted image 20250814172315.png",
