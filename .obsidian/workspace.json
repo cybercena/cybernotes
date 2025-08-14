@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5db5bdce56b5b67d",
+        "id": "fdc9d097c63b70eb",
         "type": "tabs",
         "children": [
           {
-            "id": "e6ea5740ba94f07e",
+            "id": "181444a75bb7f2e7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/Pasted image 20250814165240.png"
+                "file": "TryHackMe/Testing/Testing.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250814165240"
+              "icon": "lucide-file",
+              "title": "Testing"
             }
           }
         ]
@@ -163,16 +165,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9874cda61c9b761",
+  "active": "181444a75bb7f2e7",
   "lastOpenFiles": [
+    "assets/Pasted image 20250814170810.png",
+    "assets/Pasted image 20250814170017.png",
     "assets/Pasted image 20250814165439.png",
     "assets/Pasted image 20250814165240.png",
-    "TryHackMe/Testing/README.md",
     "TryHackMe/Testing/Testing.md",
+    "assets/Pasted.md",
+    "image_url_or_path.md",
+    "README.md",
+    "TryHackMe/Testing/README.md",
     "assets",
     "Pasted image 20250814165016.png",
     "SUMMARY.md",
-    "README.md",
     "devsecops/docker/README.md",
     "devsecops/docker/intro-to-docker.md",
     "devsecops/docker/installation-of-docker.md",
