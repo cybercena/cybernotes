@@ -1,2 +1,1 @@
-### here ko herai
-mero
+![[Pasted image 20250814165240.png]]

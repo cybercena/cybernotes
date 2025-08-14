@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3c7d369db32bf348",
+        "id": "5db5bdce56b5b67d",
         "type": "tabs",
         "children": [
           {
-            "id": "9ad313287b1a3374",
+            "id": "e6ea5740ba94f07e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "SUMMARY.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/Pasted image 20250814165240.png"
               },
-              "icon": "lucide-file",
-              "title": "SUMMARY"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250814165240"
             }
           }
         ]
@@ -165,12 +163,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ad313287b1a3374",
+  "active": "c9874cda61c9b761",
   "lastOpenFiles": [
-    "TryHackMe/Testing/Testing.md",
-    "README.md",
-    "SUMMARY.md",
+    "assets/Pasted image 20250814165439.png",
+    "assets/Pasted image 20250814165240.png",
     "TryHackMe/Testing/README.md",
+    "TryHackMe/Testing/Testing.md",
+    "assets",
+    "Pasted image 20250814165016.png",
+    "SUMMARY.md",
+    "README.md",
     "devsecops/docker/README.md",
     "devsecops/docker/intro-to-docker.md",
     "devsecops/docker/installation-of-docker.md",
