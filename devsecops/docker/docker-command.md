@@ -18,7 +18,8 @@ This command is used to pull any image from official [docker hub](https://hub.do
 docker pull <imagekoname>
 ```
 
-![][https://raw.githubusercontent.com/cybercena/Static-assets/refs/heads/main/Docker/docker-pull.png]
+![](https://raw.githubusercontent.com/cybercena/Static-assets/refs/heads/main/Docker/docker-pull.png)
+
 
 ### Docker Ps
 By default, this  command is used to shows us a list of all the running containers.  we can use different flags with it .
