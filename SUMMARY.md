@@ -8,7 +8,7 @@
   * [intro to docker](devsecops/docker/intro-to-docker.md)
   * [installation of docker](devsecops/docker/installation-of-docker.md)
   * [Docker Commands](devsecops/docker/docker-command.md)
-  * [Writing Docker File](devsecops/docker/docker-fle.md)
+  * [Writing Docker File](devsecops/docker/docker-file.md)
   * 
   * 
 
