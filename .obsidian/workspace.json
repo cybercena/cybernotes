@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "devsecops/docker/docker-file.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SUMMARY"
+              "title": "docker-file"
             }
           }
         ],
@@ -183,9 +183,9 @@
   },
   "active": "0cefb84ada266eee",
   "lastOpenFiles": [
-    "devsecops/docker/docker-file.md",
-    "SUMMARY.md",
     "devsecops/docker/intro-to-docker.md",
+    "SUMMARY.md",
+    "devsecops/docker/docker-file.md",
     "![[Pasted.md",
     "devsecops/docker/assets/Pasted image 20250817115136.png",
     "Excalidraw/assets/Pasted Image 20250817110727_854.png",

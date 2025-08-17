@@ -54,4 +54,34 @@ CMD ["flask", "run", "--host=0.0.0.0", "--port=8000"]
 
 ```
 
+### Building docker image
 
+we can build the docker image of the above Dockerfile using the command syntax:
+``docker build -t <imagename:version> path``
+
+```shell
+docker build -t test:latest .
+```
+
+
+![](https://github.com/cybercena/Static-assets/blob/main/Docker/dockerbuild.png?raw=true)
+
+
+![](https://github.com/cybercena/Static-assets/blob/main/Docker/dockerfile-image.png?raw=true)
+
+
+
+### Running images to Create container
+
+we can run images to create a container , we can give a custom name to container or it can use random name by default.
+
+```
+docker run [options] <container-name>
+```
+
+
+
+![running image to create a container](https://github.com/cybercena/Static-assets/blob/main/Docker/container.png?raw=true)
+
+
+![web app running on docker](https://github.com/cybercena/Static-assets/blob/main/Docker/webapp.png?raw=true)
