@@ -15,7 +15,7 @@
 ***
 
 * [Git and Github](devsecops/git-and-github/README.md)
-  * [Intro to Git and GitHub](intro-to-git-and-github.md)
+  * [Intro to Git and GitHub](devsecops/git-and-github/intro-to-git-and-github.md)
 ## Tryhackme
 - [Testing](TryHackMe/Testing/README)
    - [Testing](TryHackMe/Testing/Testing.md)
