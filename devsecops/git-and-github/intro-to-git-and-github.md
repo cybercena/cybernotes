@@ -10,5 +10,16 @@ Git is a distributed version control and source code management system. It helps
 **Do you know ?:** In 2005, the Linux kernel development team faced a challenge. They needed a fast, reliable, and distributed version control system after a conflict with their then-current tool, BitKeeper. Linus Torvalds, the creator of Linux, took on the task and developed **Git**.
 {% endhint %}
 
-###  What is GitHub
+### Why do we need Git ?
+- It Provides Version control
+- It provides the branching
+- It offers collaboration
+- It offers merging
+- It provides Backup & Safety
+
+![Workflow of Git](https://raw.githubusercontent.com/cybercena/Static-assets/refs/heads/main/Git_and_Github/gitflow.png)
+
+###  What is GitHub ?
+### Repository
+
 
