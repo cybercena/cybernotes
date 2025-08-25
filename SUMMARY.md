@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Happy Reading !!](README.md)
+* [👋 Happy Reading !!](devsecops/welcome.md)
 
 ## DevSecOps
 

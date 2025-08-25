@@ -4,8 +4,6 @@ description: Welcome to Digital Library created by cybercena
 
 # 👋 Happy Reading !!
 
-- you can read the notes by visiting [notes.sonam.info.np](https://notes.sonam.info.np/).
-
 
 
 
