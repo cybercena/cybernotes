@@ -1,7 +1,5 @@
 We can configure Git both locally and globally. If we want to set ownership for a single repository, we configure it locally. If we want the ownership settings to apply to all repositories on the system, we configure it globally.
 
-# Step wise Step Git Configuration
-
 ## Check if Git is installed
 Open your terminal (linux/macOS) or GitBash (Windows):
 
@@ -43,6 +41,17 @@ git init
 ![Change the working directory to gitproject](https://raw.githubusercontent.com/cybercena/Static-assets/refs/heads/main/Git_and_Github/gitconfig6.png)
 
 ![Initialize the git hub repo](https://raw.githubusercontent.com/cybercena/Static-assets/refs/heads/main/Git_and_Github/gitconfig7.png)
+
+### Step 2 : Configure the Git locally
+- We can use `--local` instead of `--global` in the configuration to configure the git repo locally.
+
+```bash
+git config --local user.name "username"
+git config --local user.email "email@example.com"
+```
+
+![](https://raw.githubusercontent.com/cybercena/Static-assets/refs/heads/main/Git_and_Github/gitconfig8.png)
+
 ## View Git Configuration
 -  If you want to view Global Configuration, use command :
 ```bash
@@ -57,6 +66,8 @@ it will show you configuration details :
 ```bash
 git config --local --list
 ```
+
+![](https://raw.githubusercontent.com/cybercena/Static-assets/refs/heads/main/Git_and_Github/gitconfig9.png)
 
 
 
