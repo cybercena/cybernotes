@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "intro-to-git-and-github"
             }
+          },
+          {
+            "id": "6befe7143bad774f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "devsecops/git-and-github/intro-to-git-and-github.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "intro-to-git-and-github"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,13 +182,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "12fa0c8e0c283c99",
+  "active": "6befe7143bad774f",
   "lastOpenFiles": [
+    "Excalidraw/git.md",
+    "Excalidraw/Drawing 2025-08-27 12.01.59.excalidraw.md",
+    "devsecops/git-and-github/intro-to-git-and-github.md",
     "devsecops/docker/intro-to-docker.md",
     "devsecops/docker/installation-of-docker.md",
     "Untitled.base",
-    "Excalidraw/git.md",
-    "devsecops/git-and-github/intro-to-git-and-github.md",
     "devsecops/docker/docker-file.md",
     "Excalidraw/aws.md",
     "Excalidraw/docker.md",
