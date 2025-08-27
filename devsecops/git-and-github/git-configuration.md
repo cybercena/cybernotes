@@ -10,6 +10,7 @@ git --version
 ```
 
 if installed, you will see something like :
+
 ![](https://raw.githubusercontent.com/cybercena/Static-assets/refs/heads/main/Git_and_Github/gitconfig1.png)
 
 ### Step 2 : Configure Git Globally
@@ -19,6 +20,6 @@ git config --global user.name "username"
 git config --global user.email "email@example.com"
 ```
 
-{% hint style="tip" %}
-**Tips:** If you'll push to GitHub and want to keep your email private, use Github's noreply email (e.g., username@users.noreply.github.com)
+{% hint style="warning" %}
+**Warning:** If you'll push to GitHub and want to keep your email private, use Github's noreply email (e.g., username@users.noreply.github.com)
 {% endhint %}
