@@ -42,6 +42,7 @@ git init
 
 ![Initialize the git hub repo](https://raw.githubusercontent.com/cybercena/Static-assets/refs/heads/main/Git_and_Github/gitconfig7.png)
 
+if you want to push local repo to GitHub, you can learn from [here](https://notes.sonam.info.np/git-and-github/push-to-github)
 ### Step 2 : Configure the Git locally
 - We can use `--local` instead of `--global` in the configuration to configure the git repo locally.
 
