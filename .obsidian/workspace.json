@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "devsecops/git-and-github/git-installation.md",
+                "file": "devsecops/git-and-github/git-configuration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git-installation"
+              "title": "git-configuration"
             }
           }
         ],
@@ -184,15 +184,16 @@
   },
   "active": "6befe7143bad774f",
   "lastOpenFiles": [
-    "devsecops/git-and-github/intro-to-git-and-github.md",
     "devsecops/git-and-github/git-installation.md",
+    "devsecops/git-and-github/git-configuration.md",
+    "devsecops/git-and-github/intro-to-git-and-github.md",
+    "SUMMARY.md",
     "devsecops/git-and-github/README.md",
     "devsecops/welcome.md",
     "README.md",
     "devsecops/git-and-github/assets/Pasted image 20250827191526.png",
     "devsecops/git-and-github/assets/Pasted image 20250827185606.png",
     "devsecops/git-and-github/assets",
-    "SUMMARY.md",
     "devsecops/cloud-computing/intro-to-cloud-computing.md",
     "devsecops/cloud-computing/intro-to-aws.md",
     "devsecops/docker/docker-command.md",
