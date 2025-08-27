@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "devsecops/git-and-github/intro-to-git-and-github.md",
+                "file": "devsecops/git-and-github/git-installation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "intro-to-git-and-github"
+              "title": "git-installation"
             }
           }
         ],
@@ -184,23 +184,28 @@
   },
   "active": "6befe7143bad774f",
   "lastOpenFiles": [
+    "devsecops/git-and-github/intro-to-git-and-github.md",
+    "devsecops/git-and-github/git-installation.md",
+    "devsecops/git-and-github/README.md",
+    "devsecops/welcome.md",
+    "README.md",
+    "devsecops/git-and-github/assets/Pasted image 20250827191526.png",
+    "devsecops/git-and-github/assets/Pasted image 20250827185606.png",
+    "devsecops/git-and-github/assets",
+    "SUMMARY.md",
+    "devsecops/cloud-computing/intro-to-cloud-computing.md",
+    "devsecops/cloud-computing/intro-to-aws.md",
+    "devsecops/docker/docker-command.md",
+    "devsecops/docker/docker-compose.md",
     "Excalidraw/git.md",
     "Excalidraw/Drawing 2025-08-27 12.01.59.excalidraw.md",
-    "devsecops/git-and-github/intro-to-git-and-github.md",
     "devsecops/docker/intro-to-docker.md",
     "devsecops/docker/installation-of-docker.md",
     "Untitled.base",
     "devsecops/docker/docker-file.md",
     "Excalidraw/aws.md",
     "Excalidraw/docker.md",
-    "README.md",
-    "SUMMARY.md",
-    "devsecops/git-and-github/README.md",
-    "devsecops/docker/docker-compose.md",
-    "devsecops/docker/docker-command.md",
     "Excalidraw/assets/Pasted Image 20250817110727_854.png",
-    "devsecops/cloud-computing/intro-to-aws.md",
-    "devsecops/cloud-computing/intro-to-cloud-computing.md",
     "draft.md",
     "devsecops/cloud-computing",
     "Untitled",
@@ -221,15 +226,9 @@
     "devsecops/git-and-github/Pasted image 20250814172315.png",
     "TryHackMe/Testing/Pasted image 20250814172323.png",
     "devsecops/git-and-github/assets/Pasted image 20250814172123.png",
-    "devsecops/git-and-github/assets/Pasted image 20250814172106.png",
-    "devsecops/git-and-github/assets",
-    "devsecops/git-and-github/assets/Pasted image 20250814171906.png",
     "TryHackMe/Testing/assets",
     "TryHackMe/Testing/attachments",
     "assets/Pasted.md",
-    "image_url_or_path.md",
-    "assets",
-    "TryHackMe/Testing 2.md",
-    "TryHackMe/Testing 1.md"
+    "assets"
   ]
 }

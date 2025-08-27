@@ -16,6 +16,7 @@
 
 * [Git and Github](devsecops/git-and-github/README.md)
   * [Intro to Git and GitHub](devsecops/git-and-github/intro-to-git-and-github.md)
+  *  [Installation of Git](devsecops/git-and-github/git-installation.md)
 ## Tryhackme
 - [Testing](TryHackMe/Testing/README)
    - [Testing](TryHackMe/Testing/Testing.md)
