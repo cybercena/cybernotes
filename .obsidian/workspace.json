@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "devsecops/git-and-github/git-repository.md",
+                "file": "SUMMARY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git-repository"
+              "title": "SUMMARY"
             }
           }
         ]
@@ -170,12 +170,12 @@
   "active": "12fa0c8e0c283c99",
   "lastOpenFiles": [
     "devsecops/git-and-github/git-configuration.md",
-    "devsecops/git-and-github/git-installation.md",
-    "devsecops/git-and-github/git-repository.md",
+    "SUMMARY.md",
     "devsecops/git-and-github/intro-to-git-and-github.md",
+    "devsecops/git-and-github/git-repository.md",
+    "devsecops/git-and-github/git-installation.md",
     "Excalidraw/git.md",
     "Excalidraw/Drawing 2025-08-28 09.59.46.excalidraw.md",
-    "SUMMARY.md",
     "Untitled.base",
     "devsecops/git-and-github/README.md",
     "devsecops/welcome.md",
