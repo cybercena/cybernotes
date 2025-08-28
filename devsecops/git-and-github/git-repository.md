@@ -45,6 +45,7 @@ git init
 ls -a
 ```
 - if it Repo was created successfully, it should include ``.git`` folder.
+
 ![](https://raw.githubusercontent.com/cybercena/Static-assets/refs/heads/main/Git_and_Github/gitrepo4.png)
 
 ### Step 3 : Configure the Git Repo
