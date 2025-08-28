@@ -70,6 +70,3 @@ git config --local --list
 
 ![](https://raw.githubusercontent.com/cybercena/Static-assets/refs/heads/main/Git_and_Github/gitconfig9.png)
 
-
-
-
