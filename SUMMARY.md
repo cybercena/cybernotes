@@ -19,7 +19,6 @@
   * [Configuration of Git](devsecops/git-and-github/git-configuration.md)
   * [Git Repository](devsecops/git-and-github/git-repository.md)
 
-## Tryhackme
+## Web Security
 
-* [Testing](tryhackme/testing/README.md)
-  * [Testing](TryHackMe/Testing/Testing.md)
+[XSS](web-security/xss/README.md)
