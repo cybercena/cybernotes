@@ -20,5 +20,4 @@
   * [Git Repository](devsecops/git-and-github/git-repository.md)
 
 ## Web Security
-
-- [XSS](web-security/portswigger/xss/README.md)
+- [XSS](web-security/xss/README.md)

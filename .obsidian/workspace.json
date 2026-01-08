@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7d8d4fbae605e86a",
+        "id": "e16ff7ca2a7942ba",
         "type": "tabs",
         "children": [
           {
-            "id": "ceeb2914e94a4c98",
+            "id": "12ecab69918aacae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,18 +166,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9874cda61c9b761",
+  "active": "12ecab69918aacae",
   "lastOpenFiles": [
-    "web-security/portswigger",
-    "web-security/portswigger/xss/README.md",
-    "SUMMARY.md",
     "devsecops/git-and-github/README.md",
+    "devsecops/git-and-github/git-configuration.md",
+    "SUMMARY.md",
+    "web-security/portswigger",
+    "web-security/xss/README.md",
     "devsecops/docker/README.md",
     "devsecops/welcome.md",
-    "devsecops/git-and-github/git-configuration.md",
     "devsecops/docker/docker-command.md",
     "devsecops/docker/intro-to-docker.md",
-    "web-security/portswigger/xss",
+    "web-security/xss",
     "web-security",
     "draft.md",
     "Excalidraw/aws.md",
@@ -213,7 +213,6 @@
     "().md",
     "devsecops/docker/assets",
     "devsecops/git-and-github/Pasted image 20250814172315.png",
-    "TryHackMe/Testing/Pasted image 20250814172323.png",
-    "TryHackMe/Testing/assets"
+    "TryHackMe/Testing/Pasted image 20250814172323.png"
   ]
 }
