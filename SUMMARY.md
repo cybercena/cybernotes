@@ -21,4 +21,4 @@
 
 ## Web Security
 
-[XSS](web-security/xss/README.md)
+- [XSS](web-security/xss/README.md)
