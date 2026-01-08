@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "devsecops/welcome.md",
+                "file": "SUMMARY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "welcome"
+              "title": "SUMMARY"
             }
           }
         ]
@@ -168,8 +168,8 @@
   },
   "active": "12ecab69918aacae",
   "lastOpenFiles": [
-    "README.md",
     "devsecops/welcome.md",
+    "README.md",
     "SUMMARY.md",
     "devsecops/git-and-github/README.md",
     "devsecops/git-and-github/git-configuration.md",
