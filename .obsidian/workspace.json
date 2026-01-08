@@ -166,9 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ceeb2914e94a4c98",
+  "active": "c9874cda61c9b761",
   "lastOpenFiles": [
-    "web-security/xss/README.md",
+    "web-security/portswigger",
+    "web-security/portswigger/xss/README.md",
     "SUMMARY.md",
     "devsecops/git-and-github/README.md",
     "devsecops/docker/README.md",
@@ -176,7 +177,7 @@
     "devsecops/git-and-github/git-configuration.md",
     "devsecops/docker/docker-command.md",
     "devsecops/docker/intro-to-docker.md",
-    "web-security/xss",
+    "web-security/portswigger/xss",
     "web-security",
     "draft.md",
     "Excalidraw/aws.md",
@@ -211,7 +212,6 @@
     "Untitled.canvas",
     "().md",
     "devsecops/docker/assets",
-    "TryHackMe/Testing/README.md",
     "devsecops/git-and-github/Pasted image 20250814172315.png",
     "TryHackMe/Testing/Pasted image 20250814172323.png",
     "TryHackMe/Testing/assets"
